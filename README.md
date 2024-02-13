@@ -4,7 +4,7 @@ It is random password generator which can generate a password of length upto 64 
 
 - <b>Tools used</b>: React, TailwindCSS
 
-### Demo :
+### Demo : https://quickpasswordgen.netlify.app/
 
 ## Getting Started
 
